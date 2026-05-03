@@ -60,8 +60,8 @@ Adli Bilimler alanındaki akademik disiplinimi, siber dünyanın karmaşık yap�
 ## 📈 GitHub Analitiği
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beyzademir&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzademir&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beyzademirrr&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzademirrr&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ---
